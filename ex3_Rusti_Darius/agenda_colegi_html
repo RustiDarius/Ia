@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<title>"Agenda Colegi"</title>
+<h1>Informatica aplicata></h1>
+<h2>Catalogul colegilor</h2>
+< a href="profilul.meu.html">Profilul meu</a>
+<br>
+< a href="profilul.colegului.html">Profilul colegului</a>
+</body>
+</html>
